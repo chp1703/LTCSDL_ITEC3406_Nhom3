@@ -1,0 +1,1 @@
+sqlcmd -E -S .\SQLEXPRESS -i script_dbHeThongQuanLyQuanCaPhe.sql
